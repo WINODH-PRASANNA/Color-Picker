@@ -21,7 +21,7 @@ A simple yet powerful desktop application built with Python and Tkinter that all
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/color-picker-app.git
+   git clone https://github.com/winodh-prasanna/color-picker-app.git
    cd color-picker-app
    ```
 
